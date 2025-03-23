@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav-kodes aka Abhinav Singh
 - Btech 1st year kiet ghaziabad (cse)
--  I’m currently learning c, c++, javascript, python, ML
+-  I’m currently learning c, c++, MERN, python, ML
 
 
 <!---
