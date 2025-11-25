@@ -6,7 +6,7 @@
   
   *Building at the intersection of Distributed Systems, Edge AI, and Autonomous Agents.*
   
-  [LinkedIn](https://www.linkedin.com/in/abhinav-singh-b01bba327/) • [Email](mailto:abhinavsingh717073@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/abhinav-singh-b01bba327/)
   
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science undergraduate at **KIET Group of Institutions**. My work focuses on **agentic workflows**, **local-first AI memory systems**, and **high-performance backends**. 
+I am a Computer Science undergraduate at **KIET Group of Institutions**. My work focuses on **agentic workflows** and **high-performance backends**. 
 
-I move fast, break things, and fix them with better architecture. Currently, I'm exploring **Model Context Protocols (MCP)** and **On-Device Inference** using Chrome's Nano AI.
+I move fast, break things, and fix them with better architecture. Currently, I'm exploring **Model Context Protocols (MCP)**
 
 ---
 
@@ -68,12 +68,17 @@ I move fast, break things, and fix them with better architecture. Currently, I'm
 - 🛡️ **Finalist** - PSB FinShield Hackathon, IIT Hyderabad (Sept 2025)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-kodes&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-kodes&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Abhinav-kodes&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-kodes&theme=radical" alt="profile details" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav-kodes&theme=radical" alt="languages graph" />
 </div>
 
 ---
