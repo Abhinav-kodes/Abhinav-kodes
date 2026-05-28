@@ -98,6 +98,15 @@ Identified and fixed two critical bugs in `server/auth/sessions/resource.ts` tha
 - **Bug 1 — Tautological DELETE:** `.where(eq(resourceSessions.sessionId, resourceSessions.sessionId))` compared a column to itself, generating `WHERE session_id = session_id` (always true) — wiping the *entire* `resourceSessions` table whenever any single session expired, logging out every active user platform-wide.
 - **Bug 2 — Broken template literal:** `` `...Domain=$domain}` `` was missing the opening `{`, causing browsers to receive `Domain=$domain}` as a literal string and reject the cookie, leaving all HTTP resources permanently unauthenticated.
 
+**[fix: sync resource toggle states with context on initial load](https://github.com/fosrl/pangolin/pull/2537)** · *Merged Feb 2026*
+
+Fixed a hydration bug where the Enable Rules, SSO, and Email Whitelist toggles on resource settings pages always rendered in the OFF state on cold load, regardless of the actual saved value in the database.
+
+- **Root Cause:** `SwitchInput` components used `defaultChecked` (uncontrolled), which React only reads on first render — since the resource context hydrates asynchronously, the first render always saw `undefined`, showing toggles as OFF.
+- Converted toggles to controlled inputs using `checked={state}` instead of `defaultChecked`
+- Added `useEffect` hooks to re-sync `rulesEnabled`, `ssoEnabled`, and `whitelistEnabled` state whenever the resource context updates
+- Added `?? false` fallbacks to `useState` initializers to prevent `undefined` being passed as initial state
+
 ---
 
 ## 🏆 Achievements
