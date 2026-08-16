@@ -12,8 +12,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20" align="left" /> 
-
 ### About Me
 
 I'm a Computer Science undergraduate at **KIET Group of Institutions**. My work sits at the intersection of **distributed systems** and **AI infrastructure**. 
@@ -25,7 +23,7 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="18" height="18" /> Core Stack</h3>
+      <h3 align="center">Core Stack</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -43,7 +41,7 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
       </div>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="18" height="18" /> AI Engineering</h3>
+      <h3 align="center">AI Engineering</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/-RAG_Pipelines-000000?style=flat-square&logo=openai" />
@@ -61,8 +59,6 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
 </table>
 
 ---
-
-<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="20" height="20" align="left" />
 
 ### Featured Projects
 
@@ -94,8 +90,6 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
 </table>
 
 ---
-
-<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-pull-request.svg" width="20" height="20" align="left" />
 
 ### Open Source Contributions (CNCF & Major Projects)
 
@@ -156,8 +150,6 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
 
 ---
 
-<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/trophy.svg" width="20" height="20" align="left" />
-
 ### Achievements
 
 - **Winner** - Surreal World Asset Buildathon (June 2025) - *Decentralized digital rights infrastructure*
@@ -170,11 +162,12 @@ I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestra
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-kodes&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
   <br/><br/>
-  <img src="https://github-profile-trophies.vercel.app/?username=Abhinav-kodes&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-kodes&theme=radical" alt="profile details" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav-kodes&theme=radical" alt="languages graph" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-kodes/Abhinav-kodes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-kodes/Abhinav-kodes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhinav-kodes/Abhinav-kodes/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
