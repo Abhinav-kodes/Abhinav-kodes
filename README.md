@@ -1,138 +1,184 @@
-# Hi there, I'm Abhinav 👋
-
 <div align="center">
   
-  **Systems Engineer | AI Researcher | Full Stack Developer**
-  
-  *Building at the intersection of Distributed Systems, Edge AI, and Autonomous Agents.*
-  
-  [LinkedIn](https://www.linkedin.com/in/abhinav-singh-b01bba327/)
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+AI+Infra+Engineer;Go+%C2%B7+TypeScript+%C2%B7+Python;CNCF+Open+Source+Contributor;Building+Agent+Security+%26+Control+Planes" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abhinav-singh-b01bba327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Abhinav_kodes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/Abhinav-kodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="20" height="20" align="left" /> 
 
-I am a Computer Science undergraduate at **KIET Group of Institutions**. My work focuses on **agentic workflows** and **high-performance backends**.
+### About Me
 
-I move fast, break things, and fix them with better architecture. Currently, I'm exploring **Model Context Protocols (MCP)** and **multi-agent orchestration architectures**.
+I'm a Computer Science undergraduate at **KIET Group of Institutions**. My work sits at the intersection of **distributed systems** and **AI infrastructure**. 
 
----
+I don't just wrap LLM APIs; I build the plumbing, security layers, and orchestration engines that make AI agents usable in production. Currently, I'm building **agent firewalls** and exploring **Model Context Protocols (MCP)** for secure, multi-agent orchestration.
 
-## 🛠️ Tech Stack
+<br>
 
-### **Languages**
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-
-### **Backend & Systems**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?logo=drizzle&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-### **AI Engineering**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG_Pipelines-000000?style=flat&logo=openai)
-![Transformers.js](https://img.shields.io/badge/-Transformers.js-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![OpenAI SDK](https://img.shields.io/badge/-OpenAI_SDK-412991?logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/-Vector_DB-6B46C1?style=flat&logo=pinecone&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP_SDK-000000?style=flat&logo=anthropic&logoColor=white)
-![AG-UI](https://img.shields.io/badge/-AG--UI_Protocol-0066CC?style=flat)
-![A2A](https://img.shields.io/badge/-A2A_Protocol-4285F4?style=flat&logo=google&logoColor=white)
-
-### **Frontend & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="18" height="18" /> Core Stack</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="18" height="18" /> AI Engineering</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/-RAG_Pipelines-000000?style=flat-square&logo=openai" />
+        <img src="https://img.shields.io/badge/-Transformers.js-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/-MCP_SDK-000000?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Vector_DB-6B46C1?style=flat-square&logo=pinecone&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔭 Featured Projects
+<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder-git-2.svg" width="20" height="20" align="left" />
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Fraktal** | **Workflow Automation Engine.** A backend execution engine that chains API calls (Trigger → Action) with dynamic state injection and real-time webhook listeners. | `TypeScript` `Node.js` `Redis` |
-| **Aether** | **Local-First AI Memory.** A unified memory layer using Chrome's Nano AI and vector search to sync context across ChatGPT, Claude, and Gemini locally. | `Edge AI` `Vector DB` `Transformers.js` |
-| **Insights** | **AI Research Platform.** Content aggregation engine that uses Gemini 2.0 Flash to parse/summarize complex PDFs and serve RAG-based Q&A. | `PostgreSQL` `GenAI` `Express` |
+### Featured Projects
 
----
-
-## 🌍 Open Source Contributions
-
-### [better-auth](https://github.com/better-auth/better-auth) — TypeScript Auth Framework
-**[fix(client): broadcast session updates to other tabs on sign-out and user update](https://github.com/better-auth/better-auth/pull/8177)** · *Merged Feb 2026*
-
-`broadcastSessionUpdate()` was dead code — defined and exported from `createSessionRefreshManager` but never called. Session mutations (sign-out, user updates) were never broadcast to other open tabs, causing stale `useSession()` state when `refetchOnWindowFocus` was disabled or rate-limited.
-
-- Wired `broadcastSessionUpdate` into `atomListeners` callback for `/sign-out`, `/update-user`, and `/update-session`
-- Added optional `callback?: (path: string) => void` to `ClientAtomListener` type
-- Called `match.callback?.(routePath)` inside proxy `onSuccess` to trigger cross-tab broadcasts
-- Added 2 new tests verifying broadcast fires correctly for sign-out and updateUser triggers
-
----
-
-### [Pangolin](https://github.com/fosrl/pangolin) — Self-Hosted Tunneled Reverse Proxy
-**[fix: correct session DELETE tautology and HTTP cookie domain interpolation](https://github.com/fosrl/pangolin/pull/2535)** · *Merged Feb 2026*
-
-Identified and fixed two critical bugs in `server/auth/sessions/resource.ts` that silently broke session persistence for all users:
-
-- **Bug 1 — Tautological DELETE:** `.where(eq(resourceSessions.sessionId, resourceSessions.sessionId))` compared a column to itself, generating `WHERE session_id = session_id` (always true) — wiping the *entire* `resourceSessions` table whenever any single session expired, logging out every active user platform-wide.
-- **Bug 2 — Broken template literal:** `` `...Domain=$domain}` `` was missing the opening `{`, causing browsers to receive `Domain=$domain}` as a literal string and reject the cookie, leaving all HTTP resources permanently unauthenticated.
-
-**[fix: sync resource toggle states with context on initial load](https://github.com/fosrl/pangolin/pull/2537)** · *Merged Feb 2026*
-
-Fixed a hydration bug where the Enable Rules, SSO, and Email Whitelist toggles on resource settings pages always rendered in the OFF state on cold load, regardless of the actual saved value in the database.
-
-- **Root Cause:** `SwitchInput` components used `defaultChecked` (uncontrolled), which React only reads on first render — since the resource context hydrates asynchronously, the first render always saw `undefined`, showing toggles as OFF.
-- Converted toggles to controlled inputs using `checked={state}` instead of `defaultChecked`
-- Added `useEffect` hooks to re-sync `rulesEnabled`, `ssoEnabled`, and `whitelistEnabled` state whenever the resource context updates
-- Added `?? false` fallbacks to `useState` initializers to prevent `undefined` being passed as initial state
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Abhinav-kodes/slop-stop">slop-stop (AI Agent Firewall)</a></h3>
+      <p align="center"><b>Python · AI Infra</b></p>
+      <p align="center">A real-time security layer that intercepts hallucinated and malicious package imports at the LLM suggestion point, blocking them before they reach the lockfile.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Abhinav-kodes/SVAR">SVAR (Voice AI Pipeline)</a></h3>
+      <p align="center"><b>Python · Audio Processing · LLMs</b></p>
+      <p align="center">Real-time Hindi call analytics infrastructure: denoising, speaker diarization, ASR, emotion detection, and compliance scoring.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Abhinav-kodes/Aether">Aether (Local-First AI Memory)</a></h3>
+      <p align="center"><b>TypeScript · Edge AI · Vector DB</b></p>
+      <p align="center">A unified memory layer using Chrome's Nano AI and vector search to sync context across ChatGPT, Claude, and Gemini locally.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/fraktal-app/fraktal">Fraktal (Workflow Automation)</a></h3>
+      <p align="center"><b>TypeScript · Node.js · Redis</b></p>
+      <p align="center">A backend execution engine that chains API calls with dynamic state injection and real-time webhook listeners.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/git-pull-request.svg" width="20" height="20" align="left" />
 
-- 🥇 **Winner** - Surreal World Asset Buildathon (June 2025)
-- 🥈 **Finalist** - Agents of the Permaweb Hackathon (Aug 2025)
-- 🥉 **Finalist** - World Computer Hacker League by ICP (Sept 2025)
-- 🛡️ **Finalist** - PSB FinShield Hackathon, IIT Hyderabad (Sept 2025)
+### Open Source Contributions (CNCF & Major Projects)
+
+<details>
+  <summary><b>CNCF Volcano (agentcube) — Distributed Workload Management</b> (6 Merged PRs)</summary>
+  <br>
+  <i>Contributor · Go · May 2026</i><br>
+  Contributed 6 merged PRs fixing critical concurrency bugs, optimizing resource allocation, and improving system reliability for distributed workload management.
+  <ul>
+    <li><b>#339</b> <code>feat(picod)</code>: Added gzip middleware for response compression.</li>
+    <li><b>#321</b> <code>fix(workloadmanager)</code>: Used detached context for store delete and added missing log.</li>
+    <li><b>#338</b> <code>fix(router,workloadmanager)</code>: Populated sandbox Kind and Namespace on create.</li>
+    <li><b>#335</b> <code>fix(workloadmanager)</code>: Deduplicated GC candidates before deletion to prevent race conditions.</li>
+    <li><b>#311</b> <code>fix(sdk-python)</code>: Corrected router port and fixed bootstrap session race.</li>
+    <li><b>#351</b> <code>fix</code>: Fixed comment style and added trailing newline.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>CNCF llm-d (llm-d-async) — LLM Inference Daemon</b> (3 Pending PRs)</summary>
+  <br>
+  <i>Contributor · Python · Aug 2026</i><br>
+  Authored 3 core PRs targeting the upcoming v1.0 release to enhance LLM backlog queue observability and inference metrics.
+  <ul>
+    <li>Implemented token throughput counter to track generation speed across async batches.</li>
+    <li>Added deadline proximity histogram and expiring-items gauge for backlog queues to prevent silent drops under heavy load.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>better-auth — TypeScript Auth Framework</b> (1 Merged PR)</summary>
+  <br>
+  <i>Contributor · TypeScript · Feb 2026</i><br>
+  <b>PR #8177</b>: <code>fix(client): broadcast session updates to other tabs on sign-out and user update</code>
+  <ul>
+    <li>Wired <code>broadcastSessionUpdate</code> into <code>atomListeners</code> callback for <code>/sign-out</code>, <code>/update-user</code>, and <code>/update-session</code>.</li>
+    <li>Added optional <code>callback?: (path: string) => void</code> to <code>ClientAtomListener</code> type to trigger cross-tab broadcasts.</li>
+    <li>Added 2 new tests verifying broadcast fires correctly for sign-out and updateUser triggers.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Pangolin — Self-Hosted Tunneled Reverse Proxy</b> (2 Merged PRs)</summary>
+  <br>
+  <i>Contributor · TypeScript · Feb 2026</i><br>
+  <b>PR #2535</b>: <code>fix: correct session DELETE tautology and HTTP cookie domain interpolation</code>
+  <ul>
+    <li><b>Bug 1:</b> Fixed tautological DELETE <code>.where(eq(resourceSessions.sessionId, resourceSessions.sessionId))</code> which wiped the entire <code>resourceSessions</code> table on any single session expiry.</li>
+    <li><b>Bug 2:</b> Fixed broken template literal <code>`...Domain=$domain}`</code> missing <code>{</code>, which caused browsers to reject the HTTP cookie, breaking auth for all resources.</li>
+  </ul>
+  <br>
+  <b>PR #2537</b>: <code>fix: sync resource toggle states with context on initial load</code>
+  <ul>
+    <li>Fixed hydration bug where Enable Rules, SSO, and Email Whitelist toggles always rendered OFF on cold load.</li>
+    <li>Converted <code>SwitchInput</code> to controlled inputs using <code>checked={state}</code> and added <code>useEffect</code> hooks to re-sync state.</li>
+  </ul>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/trophy.svg" width="20" height="20" align="left" />
+
+### Achievements
+
+- **Winner** - Surreal World Asset Buildathon (June 2025) - *Decentralized digital rights infrastructure*
+- **Finalist** - Agents of the Permaweb Hackathon (Aug 2025) - *AI-powered autonomous moderation agent on AO/Arweave*
+- **Finalist** - World Computer Hacker League by ICP (Sept 2025) - *No-code Web3/AI workflow automation*
+- **Finalist** - PSB FinShield Hackathon, IIT Hyderabad (Sept 2025) - *Behavioral credit risk assessment via GNN (95.28% R²)*
+
+---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-kodes&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+  <br/><br/>
   <img src="https://github-profile-trophies.vercel.app/?username=Abhinav-kodes&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br/>
-  
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-kodes&theme=radical" alt="profile details" />
-  
-  <br/>
-  
+  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav-kodes&theme=radical" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>"Code. Learn. Share. Repeat."</sub>
+  <sub>"Building infrastructure for the agentic future."</sub>
 </div>
