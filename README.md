@@ -27,91 +27,6 @@ I believe that **an AI agent is only as reliable as the infrastructure supportin
 
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Agentic AI & ML</h3>
-      <div align="center">
-        <sub><b>Protocols & Orchestration</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-MCP_/_WebMCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Function_Calling-00A67E?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Structured_Outputs-2088FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/-RAG_Pipelines-412991?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Prompt_Engineering-FF6F00?style=flat-square" />
-        <br><br>
-        <sub><b>Models & Inference</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Chrome_Gemini_Nano-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Sarvam_AI-1D9BF0?style=flat-square" />
-        <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Transformers.js-FF6F61?style=flat-square" />
-        <br><br>
-        <sub><b>Speech, Vision & ML</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Graph_Neural_Networks-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Speech_ML_(pyannote/ECAPA)-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Audio_DSP_(Wiener/Filters)-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/-ASR_/_TTS-00B4D8?style=flat-square" />
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Vector_Search_/_Embeddings-10A37F?style=flat-square" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend & Systems</h3>
-      <div align="center">
-        <sub><b>Languages & Frameworks</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Express-010101?style=flat-square&logo=express&logoColor=white" />
-        <br><br>
-        <sub><b>Databases & Queues</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redis_/_PubSub-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/-BullMQ_/_Python_RQ-E02D11?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-        <br><br>
-        <sub><b>Networking & APIs</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/-REST_APIs_/_Webhooks-02569B?style=flat-square&logo=swagger&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Playwright_Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JWT_/_OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">DevOps & Edge</h3>
-      <div align="center">
-        <sub><b>Cloud Native & Containers</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/-CNCF_Runtimes-231F20?style=flat-square&logo=cncf&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <br><br>
-        <sub><b>Browser & Decentralized Runtimes</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-WebCodecs_/_Canvas2D-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/-OPFS_Storage-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Chrome_Extensions_(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Internet_Computer_(ICP)-29ABE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-        <br><br>
-        <sub><b>Infra, CI/CD & Metrics</b></sub><br><br>
-        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Prometheus_Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Nginx_/_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Pangolin_Tunneling-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Featured Projects
 
 <table>
@@ -125,7 +40,7 @@ I believe that **an AI agent is only as reliable as the infrastructure supportin
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Abhinav-kodes/Signal">Signal - No-Code Web Monitor</a></h3>
       <p align="center"><sub>Agentic AI / Backend</sub></p>
-      <p align="center"><b>TypeScript - Electron - Gemini - Playwright</b></p>
+      <p align="center"><b>TypeScript - Electron - Playwright</b></p>
       <p align="center">A web monitoring tool where users select any webpage element and specify a condition, such as <i>"alert me when price &lt; INR 2,000."</i> An LLM parses the user request <b>once</b> into a deterministic XPath selector and a fallback anchor. Following this, a background worker using Express, BullMQ, and Playwright executes scheduled checks continuously without recurring LLM API expenses.</p>
     </td>
   </tr>
@@ -137,7 +52,7 @@ I believe that **an AI agent is only as reliable as the infrastructure supportin
       <p align="center">An end-to-end speech processing pipeline: custom noise filtering -&gt; speaker diarization (pyannote and ECAPA-TDNN) -&gt; automatic speech recognition (ASR) -&gt; emotion recognition using speaker-normalized acoustic and prosodic features implemented from research literature -&gt; automated compliance scoring and CRM summary generation using LLMs.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Abhinav-kodes/Aether">Aether - Local-First AI Memory</a></h3>
+      <h3 align="center"><a href="https://github.com/Abhinav-kodes/Aether">Aether - Local-First AI Memory in Browser</a></h3>
       <p align="center"><sub>Agentic AI / Edge</sub></p>
       <p align="center"><b>TypeScript - Edge AI - Vector Search</b></p>
       <p align="center">A unified memory system using the embedded Gemini Nano model in Chrome and local vector search to share context across ChatGPT, Claude, and Gemini without sending user data to external cloud services.</p>
